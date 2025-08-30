@@ -5,7 +5,7 @@ This repository contains the simulation framework for a neuromorphic control sys
 ## How to Run
 
 1. Clone this repository to your local machine.  
-2. Open MATLAB (R202x or later).  
+2. Open MATLAB (R2023b or later).  
 3. Run the initialization script:  
    ```matlab
    cambridge_init.m
