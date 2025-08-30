@@ -14,6 +14,9 @@ This repository contains the simulation framework for a neuromorphic control sys
    cambridge.slx
 
 **Option:** You can also run the half-center oscillator simulation separately:
+   ```matlab
+   HCO.slx
+
 
 ## Author
 Created by **Hossein Omidi**
